@@ -137,7 +137,7 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Login</h2>
+					<h2>ログイン</h2>
 				</div>
 			</div>
 		</div>
